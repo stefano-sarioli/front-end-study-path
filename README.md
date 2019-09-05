@@ -34,8 +34,12 @@ I'll use Visual Studio Code as my editor of choice, because I'm already using it
 * [ ] Chapter 13
 * [ ] Chapter 14
 
-#### [Refreshing JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-* [ ] Read all the re-introduction to JavaScript
+#### Refreshing JavaScript
+* [ ] Read all the [re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+#### Accessibility
+* [ ] Read [the Mozilla guide](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
+
 
 #### Write and host the following WebApp
 * [ ] Create a Pomodoro Application.
@@ -53,8 +57,8 @@ I'll use Visual Studio Code as my editor of choice, because I'm already using it
 * [ ] Async & Performance
 * [ ] ES.Next & Beyond
 
-#### [Package manager](https://yarnpkg.com/lang/en/)
-* [ ] [Getting started](https://yarnpkg.com/en/docs/getting-started)
+#### Package manager
+* [ ] [Yarn getting started](https://yarnpkg.com/lang/en/)
 
 #### CSS Architectures
 * [ ] [BEM](http://getbem.com/)
