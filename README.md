@@ -54,14 +54,14 @@ I'll use Visual Studio Code as my editor of choice, because I'm already using it
 #### [Package manager](https://yarnpkg.com/lang/en/)
 * [ ] [Getting started](https://yarnpkg.com/en/docs/getting-started)
 
-#### [CSS Architectures]
+#### CSS Architectures
 * [ ] [BEM](http://getbem.com/)
 
-#### [CSS Frameworks]
+#### CSS Frameworks
 * [ ] [Bootstrap](https://getbootstrap.com/)
 * [ ] [Semantic-UI](https://semantic-ui.com/)
 
-#### [CSS Pre-processors]
+#### CSS Pre-processors
 * [ ] [SASS](https://sass-lang.com/)
 
 #### Exercises
