@@ -15,7 +15,8 @@ I'll use Visual Studio Code as my editor of choice, because I'm already using it
 
 ## Path
 
-### First iteration, refreshing the basics
+### First iteration: refreshing the basics
+-------------------------------------------
 
 #### [HTML & CSS](https://internetingishard.com)
 * [X] Chapter 1
@@ -42,7 +43,8 @@ I'll use Visual Studio Code as my editor of choice, because I'm already using it
 * [ ] Create a simple todo list application that allows you to add tasks, mark them complete, edit them and delete them.
 * [ ] Create a simple stop watch where user can start, stop, pause and reset.
 
-### Second iteration, deep dive CSS and JavaScript
+### Second iteration: deep dive CSS and JavaScript
+---------------------------------------------------
 
 #### [Javascript](https://github.com/getify/You-Dont-Know-JS)
 * [ ] Scope & Closures
