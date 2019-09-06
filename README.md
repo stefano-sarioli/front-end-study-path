@@ -20,10 +20,10 @@ I'll use Visual Studio Code as my editor of choice, because I'm already using it
 
 #### [HTML & CSS](https://internetingishard.com)
 * [X] Chapter 1
-* [ ] Chapter 2
-* [ ] Chapter 3
-* [ ] Chapter 4
-* [ ] Chapter 5
+* [X] Chapter 2
+* [X] Chapter 3
+* [X] Chapter 4
+* [X] Chapter 5
 * [ ] Chapter 6
 * [ ] Chapter 7
 * [ ] Chapter 8
