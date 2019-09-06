@@ -24,13 +24,13 @@ I'll use Visual Studio Code as my editor of choice, because I'm already using it
 * [X] Chapter 3
 * [X] Chapter 4
 * [X] Chapter 5
-* [ ] Chapter 6
-* [ ] Chapter 7
-* [ ] Chapter 8
-* [ ] Chapter 9
-* [ ] Chapter 10
-* [ ] Chapter 11
-* [ ] Chapter 12
+* [X] Chapter 6
+* [X] Chapter 7
+* [X] Chapter 8
+* [X] Chapter 9
+* [X] Chapter 10
+* [X] Chapter 11
+* [X] Chapter 12
 * [ ] Chapter 13
 * [ ] Chapter 14
 
