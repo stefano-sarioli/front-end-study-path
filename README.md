@@ -31,8 +31,8 @@ I'll use Visual Studio Code as my editor of choice, because I'm already using it
 * [X] Chapter 10
 * [X] Chapter 11
 * [X] Chapter 12
-* [ ] Chapter 13
-* [ ] Chapter 14
+* [X] Chapter 13
+* [X] Chapter 14
 
 #### Refreshing JavaScript
 * [ ] Read all the [re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
