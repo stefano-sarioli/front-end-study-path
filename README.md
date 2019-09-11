@@ -80,7 +80,7 @@ I'll use Visual Studio Code as my editor of choice, because I'm already using it
 ### Third iteration: ReactJS
 ---------------------------------------------------
 
-#### [ReactJS]
+#### ReactJS
 * [ ] [Read 30 days of React](https://www.fullstackreact.com/30-days-of-react/)
 
 #### Write and host the following WebApp using ReactJS
