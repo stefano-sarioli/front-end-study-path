@@ -33,7 +33,7 @@ I'll use Visual Studio Code as my editor of choice, because I'm already using it
 * [X] Chapter 12
 * [X] Chapter 13
 * [X] Chapter 14
-* [ ] [CSS Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
+* [X] [CSS Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
 
 #### Refreshing JavaScript
 * [ ] Read all the [re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
