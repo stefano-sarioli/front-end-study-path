@@ -45,8 +45,6 @@ I'll use Visual Studio Code as my editor of choice, because I'm already using it
 #### Write and host the following WebApp
 * [ ] Create a Pomodoro Application.
 * [ ] Webpage that uses GitHub Repositories API to fetch and show the top 10 repositories of the current week in a nice responsive format.
-* [ ] Create a simple todo list application that allows you to add tasks, mark them complete, edit them and delete them.
-* [ ] Create a simple stop watch where user can start, stop, pause and reset.
 
 ### Second iteration: deep dive CSS and JavaScript
 ---------------------------------------------------
@@ -84,8 +82,5 @@ I'll use Visual Studio Code as my editor of choice, because I'm already using it
 * [ ] [Read 30 days of React](https://www.fullstackreact.com/30-days-of-react/)
 
 #### Write and host the following WebApp using ReactJS
-* [ ] Create a Pomodoro Application.
-* [ ] Webpage that uses GitHub Repositories API to fetch and show the top 10 repositories of the current week in a nice responsive format.
 * [ ] Create a simple todo list application that allows you to add tasks, mark them complete, edit them and delete them.
-* [ ] Create a simple stop watch where user can start, stop, pause and reset.
 
