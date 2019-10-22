@@ -15,7 +15,7 @@ I'll use Visual Studio Code as my editor of choice, because I'm already using it
 
 ## Path
 
-### First iteration: refreshing the basics
+### First iteration: Refreshing the basics
 -------------------------------------------
 
 #### [HTML & CSS](https://internetingishard.com)
@@ -42,19 +42,8 @@ I'll use Visual Studio Code as my editor of choice, because I'm already using it
 * [X] Read [the Mozilla guide](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 
 
-#### Write and host the following WebApp
-* [ ] Create a Pomodoro Application.
-* [ ] Webpage that uses GitHub Repositories API to fetch and show the top 10 repositories of the current week in a nice responsive format.
-
-### Second iteration: deep dive CSS and JavaScript
+### Second iteration: Deep dive CSS
 ---------------------------------------------------
-
-#### [Javascript](https://github.com/getify/You-Dont-Know-JS)
-* [ ] Scope & Closures
-* [ ] this & Object Prototypes
-* [ ] Types & Grammar
-* [ ] Async & Performance
-* [ ] ES.Next & Beyond
 
 #### Package manager
 * [ ] [Yarn getting started](https://yarnpkg.com/lang/en/)
@@ -63,24 +52,21 @@ I'll use Visual Studio Code as my editor of choice, because I'm already using it
 * [ ] [BEM](http://getbem.com/)
 
 #### CSS Frameworks
+* [ ] [TailwindCSS](https://tailwindcss.com/docs/installation/)
 * [ ] [Bootstrap](https://getbootstrap.com/)
 * [ ] [Semantic-UI](https://semantic-ui.com/)
 
 #### CSS Pre-processors
 * [ ] [SASS](https://sass-lang.com/)
 
-#### Exercises
-* [ ] Add bootstrap to the above projects using Yarn.
-* [ ] Convert the projects that you made in Phase 1 to use BEM.
-* [ ] Write the CSS in SASS
-* [ ] Automate the SASS to CSS conversion using NPM Script
-
-### Third iteration: ReactJS
+### Third iteration: Javascript and ReactJS
 ---------------------------------------------------
+#### [Javascript](https://github.com/getify/You-Dont-Know-JS)
+* [ ] Scope & Closures
+* [ ] this & Object Prototypes
+* [ ] Types & Grammar
+* [ ] Async & Performance
+* [ ] ES.Next & Beyond
 
 #### ReactJS
-* [ ] [Read 30 days of React](https://www.fullstackreact.com/30-days-of-react/)
-
-#### Write and host the following WebApp using ReactJS
-* [ ] Create a simple todo list application that allows you to add tasks, mark them complete, edit them and delete them.
-
+* [ ] Read fullstackreact and do the exercises
