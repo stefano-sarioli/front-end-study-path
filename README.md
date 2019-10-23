@@ -46,18 +46,18 @@ I'll use Visual Studio Code as my editor of choice, because I'm already using it
 ---------------------------------------------------
 
 #### Package manager
-* [ ] [Yarn getting started](https://yarnpkg.com/lang/en/)
+* [X] [Yarn getting started](https://yarnpkg.com/lang/en/)
 
 #### CSS Architectures
-* [ ] [BEM](http://getbem.com/)
+* [X] [BEM](http://getbem.com/)
 
 #### CSS Frameworks
-* [ ] [TailwindCSS](https://tailwindcss.com/docs/installation/)
-* [ ] [Bootstrap](https://getbootstrap.com/)
-* [ ] [Semantic-UI](https://semantic-ui.com/)
+* [X] [TailwindCSS](https://tailwindcss.com/docs/installation/)
+* [X] [Bootstrap](https://getbootstrap.com/)
+* [X] [Semantic-UI](https://semantic-ui.com/)
 
 #### CSS Pre-processors
-* [ ] [SASS](https://sass-lang.com/)
+* [X] [SASS](https://sass-lang.com/)
 
 ### Third iteration: Javascript and ReactJS
 ---------------------------------------------------
